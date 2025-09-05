@@ -1,4 +1,4 @@
-For a new GitHub Codespace, you'd need to recreate the dimming solution:
+Add `claude-dim` wrapper in your codebase
 
 Quick setup:
 1. Create the wrapper script: `touch claude-dim`
