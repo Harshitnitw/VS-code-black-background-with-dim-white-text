@@ -120,6 +120,8 @@
             "statusBar.noFolderForeground": "#b4b4b4",
             "editor.foreground": "#b4b4b4",
             "terminal.foreground": "#b4b4b4",
+            "editor.selectionBackground": "#555555",
+            "terminal.selectionBackground": "#555555",
             "editorLineNumber.foreground": "#AAAAAA",
             "editorLineNumber.activeForeground": "#D6D6D6",
             "tab.activeForeground": "#E0E0E0",
